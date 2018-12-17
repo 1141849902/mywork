@@ -1,0 +1,219 @@
+@charset "utf-8";
+/* CSS Document */
+#contain{
+	width:900px;
+	height:800px; 
+	margin: 0 auto;background-color:#CCC;}
+
+p{
+	font-size:13px;
+	line-height:150%;
+	letter-spacing:0.2em;
+	text-indent:2em;
+	color:#333;
+	}
+a{
+	text-decoration:none; 
+	}
+ul{margin:0;padding:0;}
+.top{
+	width:1200px;
+	height:54px;
+    margin: 0 auto;
+	}
+.top-left{
+	width: 136px;
+	height: 54px;
+	background-image:url(file:///E|/mysite/logo.png);
+	float:left;
+	}
+
+.dibu-l{
+	width:540px;height:54px;
+	 font-family: "微软雅黑";
+	 float:right;
+	 color:#333;
+	text-align:center;
+	
+	}
+.dibu-r{ 
+     width:360px;
+	 height:30px; 
+	 margin-top:5px;
+	 font-family: "微软雅黑";float:right;}
+.dibu-l a{
+	float:left; 
+	font-size: 14px;
+	font-family: "微软雅黑";
+	margin-top:12px; 
+	border-left:1px solid #000;
+	}
+.dibu-l a:first-child{
+	border-left:0px;
+	float:left;
+}
+.dibu-l a:hover{color:#900;}
+.top .dibu-l a{ 
+      padding-left:10px;
+	  padding-right:10px;}
+.top-right{	
+	height:54px;
+	}
+.img{
+	background-image:url(images/4a0734b77f675da2a8ca4a9879.jpg);
+    margin: 0 auto;
+    width:1200px;
+	height:366px;
+	margin-top:3px;
+	}
+li{
+	list-style:none;
+}
+
+.menu{
+	width: 1200px;
+	height: 60px;
+	margin: 0 auto;
+	background-image:url(file:///E|/mysite/20181127_1200x90_11365.jpg);
+	font-family: font-family: "微软雅黑";
+	font-size:16px;
+	position:relative;
+	}
+.menu ul li{float:left;}
+.menu ul li a{
+	float:left;
+    width:90px;height:40px;
+	font-size: 14px;
+	text-align:center;
+	line-height:40px;
+	color: #333; 
+	}
+.menu ul li a:hover{
+	color:#36F;
+}
+.menu ul li ul li{
+	background-color:#36F;
+	height: 30px;
+	width:100px;
+	position:absolute;
+	left:20px;
+    
+}
+  
+#one{
+	width: 1200px;
+	height: 320px;
+	margin:0px auto;
+	margin-top:50px;
+}
+
+#one-left{
+	width: 710px;
+	height: 300px;
+	float:left;
+	border:10px solid #36F;
+}
+
+ .zuo ul li{
+	width: 60px;
+	line-height: 37px;
+	text-align:left;
+    color:#FFF;
+}
+ .zuo ul li:hover{
+	background-color:#FFF;
+	color:#36F;
+}
+
+#one-right{
+	width: 464px;
+	height: 320px;
+	background-image:url(images/yinni.jpg);
+	float:right;
+}
+#{
+	width: 464px;
+	height: 320px;
+	background-color:#CC3;
+	float:right;
+}
+.you{
+	width:200px;
+	height:200px;
+	background-color:#000;
+	}
+#b{
+	width:500px;
+	height:300px;
+	float:left;
+}
+
+.zuo{
+	width: 60px;
+	height: 300px;
+	background-color:#36F;
+	float:left;	
+	margin-top:5px;
+}
+
+#v{
+	width:1200px;
+	height:320px;
+	margin:0 auto;
+}
+.pic{
+	width:212px;
+	height:300px;
+	background-color:#C99;
+	float:right;
+	margin-top:5px;
+}
+
+margin-left:100px;
+.bottom{
+	width:900px;
+	height:305px;
+	float:left;
+    padding:10px; 
+	margin-top:5px;
+}
+.bottom-left{
+	width:290px;
+	height:290px;
+	float:left; 
+	border:1px solid #CCC;
+	padding:8px;
+	background-color:#bae8f5;
+}
+.bottom-right{
+	width:614px;
+	height:305px; 
+	float:left;
+	border:1px solid #CCC;
+	background-color:#bae8f5;
+}
+.cl{color:#999;}
+
+.biaoti{
+	text-align:center;
+	color:#333;
+	font-weight:100;
+}
+.gengduo{
+	text-align:right;
+	
+}
+.tup{
+	margin: 0 auto;
+    width:190px;
+	height:127px; 
+	float:left;
+}
+.zzy{
+	margin: 0 auto; 
+	width:190px;
+	height:400px; 
+	float:left; 
+	padding:6px;
+}
+
